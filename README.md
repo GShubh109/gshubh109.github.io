@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Arial World
 
-You can use the [editor on GitHub](https://github.com/GShubh109/gshubh109.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here in this world we do things on the basis of our ability. This world is filled with magic and illusions A total of seven countries ruled by ruthless kings are affter a power source which will help the take over this world and make them a single ruler of this world. 
+Their lust for power is destroying the balance of the world and someone needs to stop it. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Story starts
+The story starts with the Ang kingdom ruler telling his ministers to find the power source and showing them an example of what will happen if they fail by killing his loyal men in a very cruel way. In the house of that only men 
 ```markdown
 Syntax highlighted code block
 
@@ -34,4 +32,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
